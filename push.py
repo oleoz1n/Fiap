@@ -1,5 +1,5 @@
 import os
-perg = input('''A pasta já esta clonada? 
+perg = input('''A pasta já esta clonada e o push.py dentro dela?
 [s]sim ou [n]não
 :''').lower()
 if perg == 'n':

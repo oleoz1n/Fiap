@@ -1,0 +1,7 @@
+criar arquivo
+git init
+git add {arquivo}
+git commit -m \"adicionando arquivo\"
+git remote add origin https://github.com/oleoz1n/Fiap.git
+git branch -M main
+git push -u origin main
